@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
 # hw01
+#Minha Faizal
+Hi there! I'm a **MAPSS-QMSA** student at UChicago, starting off my Python for Social Science Applications class with this assignment. I am interested in *Institutionalism* and the *Political Economy of Regulations*. 
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
 * Headers (one or more)
