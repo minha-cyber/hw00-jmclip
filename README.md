@@ -7,7 +7,7 @@ Hi there! I'm a **MAPSS-QMSA** student at UChicago, starting off my Python for S
 *I have a lot of love for outdoor and physical activities. I'm interested in learning how to roller-skate, so if anyone likes doing that I'd love to hangout.
 *I'm a beginner at programming 
 *I love board games!
-
+![Heat images of my friends and I at a Museum](WhatsApp Image 2026-09-29 at 11.58.47.jpeg)
 ##Reflection
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
