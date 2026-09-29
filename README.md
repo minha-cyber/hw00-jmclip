@@ -1,7 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
-# hw01
-#Minha Faizal
+
+#Me: Minha Faizal
 Hi there! I'm a **MAPSS-QMSA** student at UChicago, starting off my Python for Social Science Applications class with this assignment. I am interested in *Institutionalism* and the *Political Economy of Regulations*. 
+
+##Things About Me
+*I love reading books. Currently I'm reading a graphic novel called Watchmen.
+*I have a lot of love for outdoor and physical activities. I'm interested in learning how to roller-skate, so if anyone likes doing that I'd love to hangout.
+*I'm a beginner at programming 
+*I love board games!
+
+##Reflection
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
 * Headers (one or more)
